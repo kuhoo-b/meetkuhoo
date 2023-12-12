@@ -1,0 +1,202 @@
+
+*{
+    background: #DFA9F8;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+h1{
+color: #432a4e;
+font-family: 'Courier New', Courier, monospace;
+font-size: 64px;
+font-weight: 600;
+}
+
+
+.header1{
+   
+    margin-left: 40px;
+    width: max-content;
+}
+
+.header2{
+margin-left: 40px;
+width: max-content;
+}
+
+.kuhoo{
+    position: absolute;
+    margin-left: 300px;
+    margin-top: 130px;
+    scale: 150%;
+}
+
+.hindi{
+    position: absolute;
+    margin-left: 76vw ;
+    height: 100vh;
+    z-index: 2;
+}
+
+.hindi img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.body1{
+    color: #67367F;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 26px;
+    font-weight: 600; 
+    margin-top: 63vh;
+    position: absolute;
+    margin-left: 15vw;
+    width: 1100px;
+}
+
+.body2{
+color: #432a4e;
+width: 888px;
+height: 52px;
+flex-shrink: 0;
+position: absolute;
+margin-top: 80vh;
+margin-left: 43vw;
+}
+
+.body3{
+width: 860px;
+height: 215px;
+flex-shrink: 0;
+color: #432a4e;
+text-align: right;
+font-family: 'Courier New', Courier, monospace;
+font-size: 36px;
+font-style: normal;
+font-weight: 600;
+position: relative;
+margin-top: 80vh;
+margin-left: 39vw;
+}
+
+.body4{
+color: #67367F;
+font-family:'Courier New', Courier, monospace;
+font-size: 64px;
+font-style: normal;
+font-weight: 447;
+letter-spacing: -1.92px;
+margin-left: 8vw;
+}
+
+.body5{
+    color: #67367F;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 447;
+    letter-spacing: -1.92px;
+    margin-left: 22vw;
+    }
+
+  .body6{
+        color: #67367F;
+        font-family:'Courier New', Courier, monospace;
+        font-size: 64px;
+        font-style: normal;
+        font-weight: 447;
+        letter-spacing: -1.92px;
+        margin-left: 50vw;
+        }
+
+        .body7{
+            color: #67367F;
+            font-family:'Courier New', Courier, monospace;
+            font-size: 64px;
+            font-style: normal;
+            font-weight: 600;
+            letter-spacing: -1.92px;
+            margin-left: 7vw;
+            }
+
+            .body8{
+                color: #67367F;
+                font-family:'Courier New', Courier, monospace;
+                font-size: 30px;
+                font-weight: 500;
+                margin-left: 7vw;
+                margin-bottom: 0;
+                }
+    
+.pol1{
+scale: 50%;
+position: absolute;
+margin-top: 0%;
+}
+
+.pol1{
+    scale: 50%;
+    position: absolute;
+    margin-top: 0%;
+    }
+
+.pol2{
+scale: 50%;
+position: absolute;
+margin-top: 0%;
+margin-left: 30vw;
+}
+
+.pol3{
+    scale: 50%;
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 60vw;
+    }
+
+.pol1{
+    scale: 50%;
+    position: absolute;
+    margin-top: 0%;
+    }
+
+.pol2{
+scale: 50%;
+position: absolute;
+margin-top: 0%;
+margin-left: 30vw;
+}
+
+.pol3{
+    scale: 50%;
+    position: absolute;
+    margin-top: 0%;
+    margin-left: 60vw;
+    }
+
+    .pol4{
+        scale: 50%;
+        position: absolute;
+        margin-top: 25%;
+        margin-bottom: 40vh;
+        }
+    
+    .pol5{
+    scale: 50%;
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 30vw;
+    margin-bottom: 40vh;
+    }
+    
+    .pol6{
+        scale: 50%;
+        position: absolute;
+        margin-top: 25%;
+        margin-left: 60vw;
+        margin-bottom: 40vh;
+        }
